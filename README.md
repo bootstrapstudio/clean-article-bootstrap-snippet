@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Clean article snippet** made with Bootstrap 4. It is beautiful, fully responsive, and can be used for presenting articles, tutorials, or other text content. The snippet features a stylish typeface from Google Fonts, article details like author name and publish date, and clean images with a text caption. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/article-clean)
+**Clean article snippet** made with Bootstrap 4. It is beautiful, fully responsive, and can be used for presenting articles, tutorials, or other text content. The snippet features a stylish typeface from Google Fonts, article details like author name and publish date, and clean images with a text caption. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Article Clean](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/article-clean) 
+[![Article Clean](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
